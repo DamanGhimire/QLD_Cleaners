@@ -1,0 +1,413 @@
+/*============	Media 768Px Start ============ */ 
+@media (min-width: 768px) and (max-width: 991px) {
+	
+	.element-size-50,
+	.element-size-75,
+	.element-size-67,
+	.page-content,
+	.page-sidebar, 
+	.page-sidebar ~ .page-content,
+	.element-size-100 .col-md-12,
+	.element-size-75 .col-md-12,
+	.element-size-67 .col-md-12,
+	.element-size-50 .col-md-12,
+	.element-size-25 .col-md-12,
+	.element-size-33 .col-md-12, .col-md-12, .section-content, .section-sidebar, .main-section .call-actions .heading, .main-section .call-actions .cell, .main-section .call-actions.ac-clean .cell.text-area, .col-md-9, .wrapper, .cs-carousel.cs-blog-grid article { width: 100% !important; }
+	/*============ Element Size 25, 33 ============ */
+	.col-md-4, .col-md-3, .col-md-2, .element-size-25,.main-section .widget.element-size-100 { width: 50% !important; }
+	.page-content { padding: 0px 0px 0px 15px !important; }
+	.main-section .widget.element-size-100 { padding-right: 25px; float: none;}
+
+	/*============ Header Style ============ */
+	header {position: relative; z-index: 99;}
+	header .cs-click-menu { display: block; font-size: 20px; border: 3px solid #4c4c4c; color: #4c4c4c; padding: 1px 8px 0 8px; cursor: pointer; background-color: inherit !important;}
+	/* Navigation Setup  */
+	#main-header .navigation {position: relative; z-index: 999; padding: 0 0 10px; float: none; background-color: inherit !important; display: inline-block;}
+	#main-header .navigation > ul {background-color: #005394; text-align: left; width: 230px; padding:0; position: absolute; float: left; margin: 0; right: 0; display: none; top: 110%; left: -85px;}
+	#main-header .navigation ul li { float: left; width: 100%;}
+	#main-header .navigation > ul > li { margin: 0px 0px 10px 0px; border-bottom: 1px solid #e8e8e8; border-left: none; margin: 0}
+	#main-header .navigation ul > li > a:before, #main-header .navigation ul > li:hover a:after { display: none; }
+	#main-header .navigation ul li .sub-dropdown li {padding: 0;}
+	#main-header .navigation ul li .sub-dropdown li a {padding: 8px 18px 8px 10px;}
+	header .navigation ul .sub-dropdown { box-shadow: none; position: static; float: left; width: 100%; visibility: visible; opacity: 1; -webkit-transform: translateX(0px); -moz-transform: translateX(0px); -ms-transform: translateX(0px); -o-transform: translateX(0px); transform: translateX(0px); margin: 0px 0px 0px 0px;padding: 0px; }
+	#main-header .responsive-btn { display: inline-block; margin: 0 0 0 5px; padding: 0; display: inline-block; border: none; position: absolute; right: 2px; top: 2px; cursor: pointer; top: 12px; color: #fff;}
+	#main-header .navigation > ul > li:after {display: none;} 
+	.navigation ul .sub-dropdown ul { margin: 0px;}
+	#main-header .navigation ul .sub-dropdown li:before {display: none;}
+	.navigation > ul > li > a:hover, #main-header .navigation ul li:hover .responsive-btn i {color: #fff;}
+	.navigation ul a {color: #fff; padding: 10px 16px 10px 20px; width: 100%;}
+	#main-header .cs-click-menu i {line-height: 42px;}
+	#main-header  .cs-head-info .btn-quote {margin: 0 0 0 10px;}
+	#main-header .cs-nav-area .left-side {float: none; display: inline-block; width: 100%;}
+	#main-header .cs-nav-area .right-side{float: none !important;}
+	#main-header .cs-nav-area {text-align: center;} 
+	.cs-banner .cs-banner-form .form-content label{width: 50%;}
+	.cs-banner .cs-banner-form .form-content label:first-child{padding-right: 10px;}
+	.cs-banner .cs-banner-form .form-content .select-holder{width: 100%;}
+	.cs-banner .cs-banner-form .form-content, .cs-banner .cs-banner-form .form-content label.cs-textarea{width: 100%;}
+	.cs-banner .cs-banner-form .form-content label.cs-submitbtn{width: 30%; margin: 0px;}
+	.cs-banner .cs-banner-form .form-content textarea{height: 90px;}
+	.cs-banner .cs-banner-form .form-content{margin-top: 5px; padding: 15px;}
+	.main-section .cs-quote-form .field-col:first-child{padding-left: 10px;}
+	.main-section .cs-quote-form .field-col.date:first-child{padding-left: 0px;}
+	.wrap-pad .cs-portfolio article{width: 100% !important;}
+	.main-section .cs-project-details .cs-project-gallery article{display: inline-block; float: none; margin: 0 -4px 20px 0;}
+	.cs-portfolio.cs-portfolio-plain.owl-carousel article{width: 100% !important;}
+	.main-section .cs-blog.cs-blog-large-box.col-md-12{padding: 0px;}
+	.main-section .gallery-list a{width: 100%;}
+	#portfolio-section .portfolio-items li {float: none !important;margin-right: -4px !important;vertical-align: top;}
+	#main-header .cs-main-nav.scroll-to-fixed-fixed .logo.has_sticky{float: left;}
+	#main-header .cs-main-nav.scroll-to-fixed-fixed .cs-nav-area .left-side{float: left; width: auto;}
+	#main-header .cs-main-nav.scroll-to-fixed-fixed .cs-nav-area{padding-top: 11px;}
+	#main-header .cs-main-nav.scroll-to-fixed-fixed .cs-nav-area .navigation{padding: 0px 0 5px 0px;}
+	#main-header .cs-main-nav.scroll-to-fixed-fixed .cs-nav-area .navigation > ul{right: 0px; left: auto;}
+	#main-header .cs-main-nav.scroll-to-fixed-fixed .cs-nav-area .right-side{float: right !important;}
+	#main-header .cs-head-info ul li{margin: 0 0 0 14px;}
+	.under-wrapp .main-digit-wrapp{margin-bottom: 20px;}
+	.main-section .cs-full-blog:before{height: 100%; bottom:14px;}
+	#main-header .sub-dropdown .responsive-btn{top: 9px; color: #000;}
+	.main-section .widget.widget_timing ul .days{width: 130px;}
+	#main-header .navigation > ul{height: 344px; overflow: auto;}
+	.main-section .cs-main-filter ul li a{padding: 0 16px;}
+	#portfolio-section .portfolio-items li .cs-gallery-view > li{float: left !important; margin:0 10px 10px 0 !important;}
+	#main-header .cs-main-nav{position: relative !important; z-index: 9999 !important;}
+	#main-header .cs-main-nav.scroll-to-fixed-fixed {position: fixed !important;}
+	.main-section .cs-blog-grid .owl-controls{top: -16.9%;}
+	.main-section .page-sidebar .widget.widget_text ul li, #footer-sec .widget.widget_text ul li{float:left !important;}
+	.main-section .cs-portfolio-medium .cs-options li{float: none; display: inline-block;}
+	.main-section .cs-quote-form [class*="col-md"]{margin-bottom: 20px;}
+	/*============ Header Style ============ */
+
+	.cs-head-info ul {margin: 0 0 10px 0;}
+	.main-section .cs-project-details .col-md-3{width: 100% !important;}
+	.main-section .cs-project-details .add-banner2 figure img{width: auto;}
+	.main-section .cs-project-details .cs-detail-list .cs-share .btn-share{display: inline-block; vertical-align: middle; padding: 0 8px 0 44px;}
+	
+	/* Inner Pages Style */
+	.main-section .cs-img-holder:before {width:100%;}
+	.main-section .cs-partner ul li {float: left;}
+	#copyright {text-align: center;}
+	#copyright .left-side, #copyright .right-side {float: none; text-align: left;}
+	.main-section .cs-blog .cs-tags {margin: -8px 0 0;}
+	.breadcrumb-sec .cs-text .cs-title {width: 100%; top: 220px;}
+	.main-section .cs-teamdetail .social-media ul li {margin: 0 15px 0 0;}
+	.cs-portfolio article { width: 49.555% !important; float: none; display: inline-block;}
+	#copyright .left-side, #copyright .right-side{width: 50% !important;}
+		#main-header .cs-main-nav.scroll-to-fixed-fixed .cs-nav-area .navigation > ul{left: auto; right: 0px;}
+	/*============ Rtl Style ============ */
+	.rtl #main-header .navigation > ul > li{border-right: none;}
+	.rtl #main-header .navigation > ul{left: -90px; right: auto;}
+	.rtl #main-header .navigation ul li{text-align: right;}
+	.rtl #main-header .responsive-btn{left: 2px; right: auto;}
+	.rtl #main-header .responsive-btn{
+		 transform: scale(-1);
+       -wekit-transform: scale(-1);
+        -mz-transform: scale(-1);
+         -o-transform: scale(-1);
+          -ms-transform: scale(-1);
+	}
+	.rtl .main-section .cs-project-details .cs-detail-list .cs-share .btn-share{padding: 0 44px 0 8px;}
+
+}
+
+/*============ Media 420Px Start ============ */
+@media (max-width: 767px) {
+	
+	.element-size-50,
+	.element-size-33,
+	.element-size-75,
+	.element-size-67,
+	.page-content,
+	.page-sidebar, 
+	.page-sidebar ~ .page-content,
+	.element-size-100 .col-md-12,
+	.element-size-75 .col-md-12,
+	.element-size-67 .col-md-12,
+	.element-size-50 .col-md-12,
+	.element-size-25 .col-md-12,
+	.element-size-33 .col-md-12, .col-md-12, .section-content, .section-sidebar, .main-section .call-actions .heading, .main-section .call-actions .cell, .main-section .call-actions.ac-clean .cell.text-area, .col-md-9, .col-md-6, .wrapper, .cs-carousel.cs-blog-grid article{ width: 100% !important; }
+	/*============ Element Size 25, 33 ============ */
+	.col-md-4, .col-md-3, .col-md-2, .element-size-25, .page-sidebar .widget.element-size-100 { width: 50% !important; } 
+	.page-sidebar .widget.element-size-100 { padding-right: 15px; float: none;}
+	.page-content ~ .page-sidebar,.page-sidebar { padding: 0px 15px; margin: 0px; }
+	.row{ margin: 0; }
+
+	.page-content ~ .page-sidebar{ border: none; }
+	.page-content ~ .page-sidebar:after{ box-shadow: none; display: none; }
+	.page-section{ margin-top: 0 !important;}
+	.sub-dropdown a{ text-align: left; }
+	.main-section .cs-portfolio.cs-portfolio-grid{padding: 0px;}
+	.main-section .cs-blog-editor h1{font-size: 24px;}
+	.main-section .gallery-list a{width: 100%;}
+
+	/*============ Header Style ============ */
+	header {position: relative; z-index: 99;}
+	header .cs-click-menu { display: block; font-size: 20px; border: 3px solid #4c4c4c; color: #4c4c4c; padding: 1px 8px 0 8px; cursor: pointer; background-color: inherit !important;}
+	/* Navigation Setup  */
+	#main-header .navigation {position: relative; z-index: 9; padding: 5px 0 0px; float: none; background-color: inherit !important; display: inline-block;}
+	#main-header .navigation > ul {background-color: #005394; text-align: left; width: 230px; padding: 0px; position: absolute; float: left; margin:0px; right: 0px; display: none; top: 110%; left: -90px;}
+	#main-header .navigation ul li { float: left; width: 100%;}
+	#main-header .navigation > ul > li { margin: 0px 0px 10px 0px; border-bottom: 1px solid #e8e8e8; border-left: none; margin: 0}
+	#main-header .navigation ul > li > a:before, #main-header .navigation ul > li:hover a:after { display: none; }
+	#main-header .navigation ul li .sub-dropdown li {padding: 0;}
+	header .navigation ul .sub-dropdown { box-shadow: none; position: static; float: left; width: 100%; visibility: visible; opacity: 1; -webkit-transform: translateX(0px); -moz-transform: translateX(0px); -ms-transform: translateX(0px); -o-transform: translateX(0px); transform: translateX(0px); margin:0px; padding: 0px; }
+	#main-header .responsive-btn { display: inline-block; margin: 0 0 0 5px; padding: 0; display: inline-block; border: none; position: absolute; right: 10px; cursor: pointer; top: 12px; color:#fff;}
+	#main-header .navigation > ul > li:after {display: none;} 
+	.navigation ul .sub-dropdown ul { margin: 0px;}
+	#main-header .navigation ul .sub-dropdown li:before {display: none;}
+	.cs-top-bar {width: 100%; float: left; text-align: center;}
+	#main-header .top-nav, #main-header .cs-user-nav {float: none; display: inline-block;}
+	#main-header .logo {padding:10px 0px 5px;}
+	.cs-main-nav.scroll-to-fixed-fixed .logo.has_sticky{float: left;}
+	#main-header .left-side, #main-header .right-side {display: inline-block; float: none!important;}
+	#main-header .cs-head-info .contact, #main-header .cs-head-info ul {margin: 0 0 10px;}
+	.navigation > ul > li > a:hover, #main-header .navigation ul li:hover .responsive-btn i {color: #fff;}
+	.navigation ul a {color: #fff; padding: 10px 16px 10px 20px; width: 100%;}
+	#main-header .cs-click-menu i {line-height: 42px;}
+	.cs-top-bar .left-side {margin: 0 15px 0 0;}
+	#main-header .cs-main-nav.scroll-to-fixed-fixed .left-side{float: left !important; width: auto;}
+	#main-header .cs-main-nav.scroll-to-fixed-fixed .right-side{float: right!important; width: auto !important;}
+	#main-header .cs-nav-area, #main-header .cs-head-info, #main-header .cs-head-info .contact{text-align: center;}
+	#main-header .cs-head-info{margin:5px 0 10px; }
+	#main-header .sub-dropdown .responsive-btn{color: #000;}
+	#main-header .cs-main-nav{position: relative !important; z-index: 9999 !important;}
+	#main-header .cs-main-nav.scroll-to-fixed-fixed {position: fixed !important;}
+	/*============ Header Style ============ */
+	.wrapper {float: left;}
+	.under-wrapp .main-digit-wrapp{margin-bottom: 20px;}
+	#main-header .cs-main-nav.scroll-to-fixed-fixed .navigation > ul {left: auto;right: -5px; top: 110%;}
+	
+	/* Home Style */
+	.cs-portfolio.cs-portfolio-plain.owl-carousel article{width: 100% !important;}
+	.cs-portfolio article { width: 49.555% !important; float: none; display: inline-block;}
+	.wrap-pad .cs-portfolio article{width: 100% !important;}
+	.breadcrumb-sec .cs-banner-form .form-content {right:150px;}
+	.main-section .cs-portfolio-grid .cs-media {height: auto;}
+	.main-section .cs-portfolio h4, .main-section .cs-portfolio h5 {white-space: normal;}
+	.cs-partner ul li {float: left;}
+	.cs-twitter-section .twitter_widget p {overflow: hidden;}
+	#copyright .social-media li {padding: 0 5px;}
+	#copyright .left-side.col-md-6, #copyright .right-side.col-md-6{margin-bottom: 10px;}
+	.main-section .cs-widget-contact ul li, .wrapper #footer-sec .widget_text ul li {font-size: 12px;}
+	#portfolio-section .portfolio-items li{float: none !important; vertical-align:top; margin-right: -4px !important;}
+	#portfolio-section .portfolio-items li .cs-gallery-view > li{float: left !important; margin:0 10px 10px 0 !important;}
+	#main-header .navigation > ul{height: 344px; overflow: auto;}
+	
+	/* Inner Pages Style */
+	.main-section .cs-img-holder:before {width: 100%;}
+	.cs-services.cs-box p {font-size: 12px;}
+	.main-section .cs-quote-form .field-col {padding: 0;}
+	.cs-nav-area .cs-head-info .btn-quote {margin: 0; float: none; display: inline-block;}
+	.main-section .cs-widget-contact i, .wrapper #footer-sec .widget_text i {width: 33px; font-size: 18px; padding-left:8px;}
+	.main-section .page-sidebar .widget.cs-widget-contact ul li a {font-size: 11px;}
+	.main-section .cs-blog.cs-blog-large .cs-title {padding-left: 0;}
+	.main-section .cs-blog article figure figcaption i {margin: -30px 0 0 -28px;}
+	.main-section .cs-pagination ul li.pgprev a, .main-section .cs-pagination ul li.pgnext a {padding: 3px 15px;}
+	.main-section .cs-pagination ul li a {padding: 5px 12px; line-height: 24px;}
+	.main-section .cs-blog-medium .cs-bloginfo-sec {width: 100%; float: left;}
+	.main-section .cs-blog-medium .cs-media {margin: 0 0 15px;}
+	.main-section .cs-blog-large-box .cs-thumb-post ~ h2, .main-section .cs-blog-large-box .cs-thumb-post ~ .cs-post-options {width: 100%; float: left; padding: 0}
+	.main-section .cs-blog-large-box .cs-thumb-post {margin: 0 0 10px 0;}
+	.main-section .cs-blog-large-box .cs-bloginfo-sec {padding: 0 20px;}
+	.main-section .cs-blog .cs-tags {margin: -8px 0 0;}
+	.main-section blockquote {margin: 20px 0 45px; padding: 0 0 0 14px; width: 100%;}
+	.main-section #cs-comments .thumblist header {width: 30%;}
+	.main-section #cs-comments .thumblist .cs-text-box {float: left; width: 100%;}
+	.main-section #cs-comments .children {margin-left: 0;}
+	.main-section .cs-classic-form form p.comment-form-comment {position: initial; width: 100%; padding: 0;}
+	.main-section .cs-classic-form form p.form-submit {text-align: left;}
+	.main-section .cs-classic-form form p.form-submit input[type="submit"] {margin: 10px 0 0 !important;}
+	.main-section #cs-comments .thumblist figure {margin: 0 23px 10px 0;}
+	.main-section .cs-classic-form form p.comment-form-author input[type="text"], .main-section .cs-classic-form form p.comment-form-email input[type="text"], 
+	.main-section .cs-classic-form form p.comment-form-Subject input[type="text"], .main-section .cs-classic-form form p.comment-form-comment textarea {width: 100%;}
+	.breadcrumb-sec .cs-frame .cs-title {width: 100%;}
+	.breadcrumb-sec .cs-title .cs-thumb-post ~ .cs-option-inner {width: 100%; float: left; padding: 0;}
+	.breadcrumb-sec .cs-frame .cs-title {top: 58px;}
+	.breadcrumb-sec .cs-post-options li {text-align: left;}
+	.breadcrumb-sec .cs-option-inner h1 {font-size: 26px;}
+	.cs-team.cs-teamgrid .social-media {width: 100%; float: left; padding: 10px 0 0;}
+	.main-section .cs-team .text .social-media ul li, .main-section .cs-teamdetail .social-media ul li {margin: 0 10px 0 0;}
+	.main-section .cs-teamdetail figure {width: 100%;}
+	.main-section .cs-teamdetail figure ~ .cs-info-indetail {width: 100%; float: left; padding: 0;}
+	.main-section .cs-teamdetail figure {margin: 0 0 20px 0;}
+	.main-section .cs-main-filter ul li a {padding: 0 9px; font-size: 13px;}
+	.cs-main-filter ul li {line-height: 30px;}
+	.page-not-found .cs-search-area input[type="text"], .under-wrapp .cs-search-area input[type="text"] { width: 170px; }
+	.cs-relevant-list figure { width: 100%; margin-bottom: 20px; }
+	.cs-relevant-list figure ~ .cs-text { float: left; width: 100%; padding: 0px; }
+	.cs-search-area .form-control { width: 280px; }
+	.cs-pricing-details table th, .cs-pricing-details table td,.cs-portfolio-medium .cs-media { float: left; width: 100%; }
+	.cs-portfolio-medium .cs-text { float: left; width: 100%; padding: 20px 0px 0px 0px; }
+	.cs-portfolio-medium.cs-portfolio figure { height: auto; }
+	.cs-project-details .cs-project-pagination li { width: 100%; margin-bottom: 5px; }
+	.add-banner figure, .cs-blog-medium .cs-media { width: 100%; }
+	#copyright {text-align: center;}
+	#copyright .footer-nav, .wrapper #copyright .logo {display: inline-block; text-align: left; float: none; vertical-align: top;}
+	.cs-banner .cs-banner-form .form-content{width: 100%; padding: 0px; margin-top: 15px;}
+	.cs-banner .cs-banner-form{position: inherit;}
+	.main-section .cs-project-details .cs-project-gallery article{display: inline-block; float: none; margin: 0 -4px 20px 0;}
+	.main-section .cs-blog.cs-blog-large-box.col-md-12{padding: 0px;}
+		/* Rtl Style */
+	.rtl #main-header .navigation > ul{left: -90px; right: auto;}
+	.rtl .cs-relevant-list figure ~ .cs-text{padding: 0px !important;}
+	.rtl .cs-pagination ul li.pgnext a{margin: 0 6px 0 0;}
+	.rtl .cs-blog.cs-blog-large .cs-title{padding: 0px 0px 0 0 !important;}
+	.rtl .cs-thumb-post figure{margin-left: 10px;}
+	.rtl .cs-blog-medium .cs-media{margin: 0 0 15px 0 !important;}
+	.rtl .cs-blog-large-box .cs-thumb-post ~ .cs-post-options, .rtl .cs-blog-large-box .cs-thumb-post ~ h2{padding: 0px !important;}
+	.rtl .cs-post-panel span.cs-comments{margin: 0 20px 10px 0px !important;}
+	.rtl #cs-comments .children{margin-right: 0px !important;}
+	#footer-sec #copyright .right-side{text-align: center;}
+	.main-section .cs-full-blog:before{height: 100%; bottom:20px;}
+	.main-section .widget.widget_timing ul .days{width: 116px;}
+	.main-section .cs-classic-form form p.comment-form-Subject ~ p.comment-form-comment, .main-section .comment-form p.comment-form-Subject ~ p.comment-form-comment{position: inherit; width: 100%; padding: 0px;}
+	.main-section .cs-classic-form form p.comment-form-Subject ~ p.comment-form-comment ~ p.form-submit, 
+	.main-section .comment-form p.comment-form-Subject ~ p.comment-form-comment ~ p.form-submit{text-align: left; margin: 20px 0px 0 0 !important;}
+	.page-not-found .cs-search-area input[type="text"], .under-wrapp .cs-search-area input[type="text"] { width: 277px;}
+	.cs-blog-editor .flex-direction-nav{display: none;}
+	.main-section .cs-portfolio-medium .cs-options li{float: none; display: inline-block;}
+	.main-section .cs-quote-form [class*="col-md"]{margin-bottom: 20px;}
+	.single-portfolios #at3win{width: 96%; left: 12px;}
+	.main-section .cs-project-details .cs-project-pagination{float: left;}
+	#main-header .cs-main-nav.scroll-to-fixed-fixed .cs-nav-area .navigation > ul{left: auto; right: 0px;}
+   /*============ Rtl Style ============ */
+	.rtl #main-header .navigation > ul > li{border-right: none;}
+	.rtl #main-header .navigation > ul{left: -90px; right: auto;}
+	.rtl #main-header .navigation ul li{text-align: right;}
+	.rtl #main-header .responsive-btn{left: 2px; right: auto;}
+	.rtl #main-header .responsive-btn{
+		 transform: scale(-1);
+       -wekit-transform: scale(-1);
+        -mz-transform: scale(-1);
+         -o-transform: scale(-1);
+          -ms-transform: scale(-1);
+	}
+	.rtl #main-header .cs-main-nav.scroll-to-fixed-fixed .left-side{float: right!important;}
+	.rtl header .navigation ul > li > a{text-align: right;}
+	.rtl .main-section blockquote {padding: 0 14px 0 0;}
+	.rtl .main-section #cs-comments .thumblist figure{margin:0 0px 10px 23px; }
+	.rtl .main-section .cs-classic-form form p.comment-form-Subject ~ p.comment-form-comment ~ p.form-submit, 
+	.rtl .main-section .comment-form p.comment-form-Subject ~ p.comment-form-comment ~ p.form-submit{text-align: right;}
+}
+
+@media (max-width: 599px) {
+	.col-md-3{ width: 100% }
+	.breadcrumb-sec .cs-banner-form .form-content {right:95px;}
+	.main-section .button_stylemedium a{margin-bottom: 5px;}
+	.cs-full-blog .cs-bloginfo .cs-option-inner h1{font-size: 24px !important;}
+	.main-section .widget.widget_timing ul .days{width: 85px;}
+	.main-section .widget.widget_timing ul li{font-size: 10px;}
+	.main-section .cs-blog-grid .owl-controls, .main-section .cs-related-projects .owl-nav{display: none;}
+	.page-not-found .cs-search-area input[type="text"], .under-wrapp .cs-search-area input[type="text"] { width: 265px;}
+	.main-section .cs-main-filter ul li a{font-size: 11px; padding: 0 6px;}
+	.rtl .page-sidebar .widget.widget_timing ul li time{width: 102px;}
+	.rtl .main-section .widget.widget_timing ul .days{width: 70px;}
+	.single-portfolios #at3win{width: 90%; left: 22px;}
+
+}
+
+/*============ Media 300Px Star ============ */
+@media (max-width: 480px) {
+
+	.page-content { padding: 0; }
+	.element-size-50,
+	.element-size-25,
+	.element-size-75,
+	.element-size-67,
+	.element-size-33,
+	.page-content,
+	.page-sidebar, 
+	.element-size-100 .col-md-12,
+	.element-size-75 .col-md-12,
+	.element-size-67 .col-md-12,
+	.element-size-50 .col-md-12,
+	.element-size-25 .col-md-12,
+	.element-size-33 .col-md-12, 
+	.col-md-3, .col-md-4, .col-md-12, .col-md-2, .element-size-25,.page-sidebar .widget.element-size-100, .cs-spreater, .cs-portfolio.cs-portfolio-grid article, .cs-portfolio article { width: 100% !important;}
+	.page-sidebar .widget.element-size-100 { padding-right: 25px; }
+	.page-sidebar .widget.element-size-100:nth-child(2n),.page-sidebar .widget.element-size-100 { padding-right: 0px; }
+	.page-content ~ .page-sidebar{ border: none; }
+	.page-content ~ .page-sidebar:after{ box-shadow: none; display: none; }
+
+	/*============ Header Setup ============ */
+	/* Navigation Setup  */
+	#main-header .navigation { padding: 0 0 20px; float: left;}
+	header .navigation > ul { display: none; width: 300px; position: absolute; right: 0px; top: 110%; z-index: 999; padding: 0px 0px; margin: 0; }
+	header .navigation ul li { float: left; width: 100%; padding: 0;}
+	header .navigation ul > li > a:before { display: none; }
+	header .navigation ul > li > a { padding: 10px 16px 10px 20px; width: 100%;}
+	#main-header .cs-main-nav.scroll-to-fixed-fixed .navigation > ul {top: 110%; right: -5px; left: auto;}
+	#main-header .cs-user-nav li {margin: 0 25px 0 0;}
+	#main-header .cs-user-nav li:last-child {float: left; margin: 0 0 0 23px;}
+	#main-header .top-nav li:after {display: none;}
+	#main-header .top-nav li, #main-header .top-nav li:first-child {padding-left: 10px;}
+	#main-header .navigation { padding: 5px 0 0px; display: inline-block; float: none;}
+	#main-header .main-navbar {padding: 13px 0 10px;}
+	.cs-head-info ul {margin: 0 0 10px 0;}
+	#main-header .cs-click-menu i {line-height: 42px;}
+	#main-header .cs-top-bar {text-align: center;}
+	.cs-top-bar .left-side {margin: 0;}
+	.main-section .cs-buttons .cs-default-btn{margin-bottom: 5px;}
+	.breadcrumb-sec h1{font-size: 24px!important;}
+	.page-not-found .cs-search-area label, .under-wrapp .cs-search-area label{margin: 0 0 0 10px;}
+	.cs-blog-editor .cs-post-panel .cs-categories{margin: 0 10px 8px 0;}
+
+
+	/* Home Style */
+	.breadcrumb-sec .cs-banner-form .form-content {right: 10px;}
+	.main-section .cs-twitter-section .twitter_widget p {width: 100%;}
+	.wrapper .widget ul li a, .main-section .cs-widget-contact ul li, .wrapper #footer-sec .widget_text ul li {font-size: 13px;}
+	#copyright .footer-nav {width: 100%; margin: 0; text-align: center;}
+	.wrapper #copyright .logo {width:100%; text-align: center; margin: 0 0 10px;}
+	#copyright .right-side {text-align: center;}
+	.twitter_widget .infotext {float: left; width: 100%;}
+	#copyright .right-side .social-media ul{text-align: center;}
+	
+	/* Inner Pages Style */
+	.cs-buttons .cs-default-btn {min-width: 125px; padding: 10px 15px;}
+	.main-section .cs-quote-form .note {float: left; margin: 10px 0 0;}
+	.main-section .cs-blog .cs-thumb-post ~ .cs-blog-text {padding-left: 50px; float: left;}
+	.main-section .cs-readmore-btn {font-size: 16px;}
+	.main-section .cs-pagination ul li.cs-page {margin: 0 10px 0 0;}
+	.main-section .cs-blog .cs-tags {width: 100%; float: left; margin: 10px 0 0;}
+	.main-section .cs-blog .cs-tags:before {display: none;}
+	.main-section .cs-blog-large-box .cs-title {padding: 22px 15px 26px;}
+	.cs-post-pagination article h3 {font-size: 16px;}
+	.main-section #cs-comments .thumblist .cs-text-box time {float: left; text-align: left; width: 50%;}
+	.main-section #cs-comments .thumblist header {width: 50%;}
+	.main-section  #cs-comments .children .thumblist li {padding: 20px 10px 20px 15px;}
+	.main-section .cs-classic-form form label.cs-half-input {width: 100%; padding-left: 0;}
+	.main-section .cs-main-filter ul li {width: 100%; border-bottom: 1px solid #d3e5eb; border-left: none;}
+	.page-not-found .cs-search-area input[type="text"], .under-wrapp .cs-search-area input[type="text"] { width: 160px;}
+	.cs-search-area .form-control { width: 180px; }
+	.main-section .cs-box .panel-heading a.collapsed:before, .main-section .cs-box .panel-heading a:before {right: 5px; top: 22px;}
+	.main-section .widget.widget_timing ul .days{width: 120px;}
+
+	/* Rtl Style */
+	.rtl #main-header .navigation > ul {top: 110%; left: -88px; right: auto;}
+	.rtl .main-section .cs-box .panel-heading a.collapsed::before, .rtl .main-section .cs-box .panel-heading a::before{left: 5px; right: auto;}
+	.rtl .cs-post-panel .cs-tags ul li{margin: 0 0 0 4px;}
+	.rtl .cs-post-panel span.cs-comments{margin: 0 4px 10px 0 !important;}
+	.rtl .cs-post-panel .cs-categories{margin: 0 0 8px 6px !important;}
+	.main-section .page-sidebar ~ .page-content{padding-left: 0px;}
+	.rtl .main-section blockquote {padding: 0 14px 0 0;}
+	.rtl .main-section #cs-comments .thumblist figure{margin:0 0px 10px 23px; }
+	.rtl #cs-comments .children .thumblist .cs-text-box{padding-right: 0px;}
+	.single-portfolios #at3win{width: 85%; left: 20px;}
+
+/*============	Media 940Px Start ============ */
+@media (min-width: 992px) and (max-width: 1199px) {
+	.wrapper {width: 100% !important;}
+	.main-section .widget.widget_timing ul .days{width: 88px;}
+	.main-section .widget.widget_timing ul li{font-size: 12px;}
+	#main-header .sub-dropdown .responsive-btn{top: 10px;}
+	.main-section .cs-main-filter ul li a{padding: 0 16px;}
+	#portfolio-section .portfolio-items li {float: none !important; margin-right: -4px !important; vertical-align: top;}
+	
+	/* Inner Pages Style */
+	.main-section .cs-services.cs-box p {font-size: 13px;}
+	.cs-banner .cs-banner-form .form-content{margin-top: 6px !important;}
+	/* Rtl Style */
+	.rtl .cs-banner .cs-banner-form .form-content{margin-top: 6px !important;}
+	
+}
