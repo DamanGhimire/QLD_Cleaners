@@ -1,0 +1,695 @@
+<!DOCTYPE html>
+<!-- saved from url=(0049)http://www.brisbanehousecleaners.net.au/services/ -->
+<html lang="en-US" itemscope="" itemtype="http://schema.org/WebSite" prefix="og: http://ogp.me/ns#" class=" -webkit- js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+		            <meta name="keywords" content="Home cleaning in Brisbane">
+          	<meta name="description" content="Brisbane home cleaning services provide customers with reliable regular cleaning, spring cleaning and carpet cleaning.">
+                <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="http://www.brisbanehousecleaners.net.au/xmlrpc.php">    
+            <link rel="shortcut icon" href="http://www.brisbanehousecleaners.net.au/wp-content/uploads/2017/10/BHC-logo-cleaning-brisbane.png">
+                <style type="text/css">
+		
+                body,.main-section p {
+        font-size:15px;         color:#555555;
+    }
+    header .logo{
+        margin:40px  0px 0px 0px !important;
+       }
+    .nav li a,.navigation ul li{
+        font-size:14px !important;    }
+     h1{
+    font-size:34px !important;}
+    h2{
+    font-size:24px !important;}
+    h3{
+    font-size:20px !important;}
+    h4{
+    font-size:18px !important;}
+    h5{
+    font-size:16px !important;}
+    h6{
+    font-size:14px !important;}
+    
+    .main-section h1, .main-section h1 a {color: #333333 !important;}
+    .main-section h2, .main-section h2 a{color: #333333 !important;}
+    .main-section h3, .main-section h3 a{color: #333333 !important;}
+    .main-section h4, .main-section h4 a{color: #333333 !important;}
+    .main-section h5, .main-section h5 a{color: #333333 !important;}
+    .main-section h6, .main-section h6 a{color: #333333 !important;}
+    .widget .widget-section-title h2{
+        font-size:16px !important;    }
+	  .cs-section-title h2{
+        font-size:24px !important;    }
+	.top-bar,#lang_sel ul ul {background-color:#4c545a !important;}
+	#lang_sel ul ul:before { border-bottom-color: #4c545a; }
+	.top-bar p{color:#ffffff !important;}
+	.top-bar a,.top-bar i{color:#ffffff !important;}
+	.logo-section,.main-head{background: !important;}
+	.main-navbar,#main-header .btn-style1,.wrapper:before {background:#005394 !important;}
+	.navigation {background:#005394 !important;}
+	.sub-dropdown { background-color:#fffff !important;}
+	.navigation > ul ul li > a {color:#000000 !important;}
+	.navigation > ul ul li:hover > a {color:#ffffff;color:#ffffff !important;}
+	.navigation > ul > li:hover > a {color:#ffffff !important;}
+	.sub-dropdown:before {border-bottom:8px solid #ffffff !important;}
+	.navigation > ul > li.parentIcon:hover > a:before { background-color:#ffffff !important; }
+	.cs-user,.cs-user-login { border-color:#ffffff !important; }
+    {
+        box-shadow: 0 4px 0 #4c545a inset !important;
+    }
+    .header_2 .nav > li:hover > a,.header_2 .nav > li.current-menu-ancestor > a {
+       
+    }
+	#copyright {background-color:#262a2d !important;}
+    </style>
+<style type="text/css">
+        footer#footer-sec, footer.group:before {
+            background-color:#4c545a !important;
+        }
+		#footer-sec {
+            background:url() #4c545a repeat scroll 0 0 / cover !important; 
+         }
+       #footer-sec::before {
+         background-color:rgba(76, 84, 90, 0.95) !important;;
+         }
+        .footer-content {
+            background-color:#4c545a !important;
+        }
+        footer #copyright p {
+            color:#666666 !important;
+        }
+        footer .widget-form ul li input[type='submit'],footer.group .tagcloud a,footer.group .widget ul li a {
+            color:#ffffff !important;
+        }
+		#footer-sec .widget{
+			 background-color:background-color:rgba(76, 84, 90, 0.95) !important; !important;
+		}
+        footer#footer-sec .widget h2, footer#footer-sec .widget h5,footer.group h2,footer#footer-sec h3,footer#footer-sec h4,footer#footer-sec h5,footer#footer-sec h6 {
+            color:#ffffff !important;
+        }
+      #newslatter-sec,#newslatter-sec span,footer#footer-sec .widget ul li,footer#footer-sec .widget p, footer#footer-sec .widget_calendar tr td,footer.group,footer .widget_latest_post .post-options li{
+            color:#ffffff !important;
+        }
+    </style>
+<style type="text/css">
+/*!
+* Theme Color File */
+
+/*!
+* Theme Color */
+.cscolor, .cs-hovercolor:hover, .cs-head-info ul li,.cs-project-details .cs-project-pagination li:hover>a, .cs-head-info ul li a, .cs-portfolio-medium h1 a, 
+.cs-portfolio-masonary article:hover .cs-text h4 a, .cs-portfolio-grid article:hover .cs-text h4 a, .cs-portfolio-plain article:hover .cs-text h4 a, .cs-project-list .cs-text h5 a,
+/* Blog Style */.cs-Portfolio-grid article:hover .cs-text h4 a, .cs-blog-large .cs-blog-text span, .cs-blog article:hover h2 span, .cs-blog article:hover h2 a, .cs-post-panel .cs-tags ul li a, .cs-post-pagination article:hover h3 a, .cs-blog-grid article:hover h4 a, .cs-pagination ul li a.active, .cs-pagination ul li a:hover,
+.cs-related-post .cs-blog article:hover h5 a,/* widget Style */ .twitter_widget article P a, .recentblog_post li:hover .text h6 a, .cs-blog article:hover .cs-bloginfo-sec h3 a, .cs-portfolio-plain article:hover h5 a, .cs-blog .cs-tags ul li a:hover, .cs-post-pagination article:hover a i, .cs-post-options li a:hover,
+.cs-tags ul li:hover i, .cs-gallery.cs-loading:after{
+ color:#005394 !important;
+}
+/*!
+* Theme Background Color */
+.cs-bgcolor, .pxbg-color, .pxbg-hovercolor:hover, .cs-project-details .cs-detail-head, .cs-project-details .cs-project-pagination .next a:after,
+.cs-project-details .cs-project-pagination .prev a:after, .cs-main-filter ul li a:hover,  .cs-classic-form form input[type="submit"], 
+/* widget Style */.widget_categories>ul>li:hover, .widget_nav_menu>ul>li:hover, .widget_archive>ul>li:hover, .widget_pages>ul>li:hover, .widget_meta>ul>li:hover,
+.widget_calendar caption,.cs-click-menu, .cs-banner-form .form-content input[type="submit"], .cs-main-filter ul li.active a, .cs-teaminfo .cs-teambtn:hover, .wpcf7-form .wpcf7-submit, .widget_nav_menu .menu-main-menu-container>ul>li a:hover,
+.widget_tag_cloud .tagcloud a:hover{
+    background-color:#005394 !important;
+}
+
+/* Orange Color*/
+.cscolor,.breadcrumb-sec .breadcrumbs li.active, .cs-blog-grid .owl-controls .owl-prev:hover i, .cs-blog-grid .owl-controls .owl-next:hover i, .cs-testimonial .cs-question-mark:before, .cs-readmore-btn,
+.cs-full-blog .cs-post-options li a, .cs-blog-editor .cs-full-blog .cs-bloginfo .cs-post-options li.cs-admin-post a, .cs-blog-editor .cs-title .cs-admin-post a,
+.relevant-search .cs-search-results .suggestions ul li:before, .site-maps-links ul li:before, .suggestions ul li:before, .site-maps-links ul li:before, .cs-fancy-heading h1 span,
+.cs-counter figure i, .cs-userinfo li i, .cs-widget-contact i, .page-sidebar .widget_text i, #footer-sec .widget_text i, .footer-nav p a, #copyright .btn-top i, .twitter_widget article .text i,
+.loader 
+{
+    color: #ff9310 !important;
+}
+.cs-bgcolor, .csbg-color, table thead tr th,
+.cs-portfolio-modren figcaption .cs-text .separator:after, .cs-portfolio-medium .cs-gallery-view:before, .cs-project-details .cs-detail-list>li:before, 
+.cs-project-details .cs-detail-list .cs-share .btn-share, .cs-project-details .cs-heading:before, .cs-project-details .cs-project-pagination figcaption .separator:after,
+.cs-related-projects .cs-detail-head:before, .cs-pricing-details .cs-heading:before, .cs-section-title h2:before,.cs-section-title h2:before, .cs-readmore-btn:before, .comment-reply i, .btnsubmit, .cs-relevant-list p span, .cs-divider1:before, .cs-search-area .btnsubmit,
+.cs-relevant-list p span, .cs-fancy-heading .cs-spreater .cs-divider1, .cs-classic figure figcaption span, .cs-modren figure figcaption span, .cs-box .panel-body:before,
+.cs-section-title h2:before, .cs-blog .cs-bloginfo-sec h3:before, .cs-heading-description h1:before, .cs-heading-description h2:before, .cs-section-title h1:before,
+.cs-section-title h3:before, .cs-banner-form .form-content p:before, .cs-spreater .cs-divider-style:before, .cs-counter figure:before, .page-not-found  .cs-search-area input[type="submit"],
+.under-wrapp .cs-search-area input[type="submit"], .under-wrapp .main-digit-wrapp.has-bg4, .cs-teaminfo:before, #footer-sec .widget-section-title:after, #copyright .btn-top:hover,
+.loader::before, .loader::after,
+/*Widget*/ .widget-section-title:before,.widget_meta>ul>li:before,
+.widget_pages>ul>li:before,
+.widget_archive>ul>li:before,
+.widget_categories>ul>li:before,
+.widget_nav_menu >ul>li a:before,
+.widget_nav_menu .menu-main-menu-container>ul>li a:before,.page-sidebar .widget_rss ul li a:before
+
+{
+    background-color: #ff9310 !important;
+}
+
+.csborder-color,.csborder-hovercolor:hover,
+{
+    border-color: #ff9310 !important;
+}
+.widget_meta>ul>li,
+.widget_pages>ul>li,
+.widget_archive>ul>li,
+.widget_categories>ul>li,
+.widget_nav_menu .menu-main-menu-container>ul>li a, 
+.widget_nav_menu >ul>li a{
+    border-left-color: #ff9310 !important;
+    border-right-color: #ff9310 !important;
+}
+/* Hover Opacity Color */
+.cs-portfolio-masonary figure figcaption a, .cs-portfolio-grid figure figcaption a,.cs-media-gallery figure figcaption > a, 
+.cs-portfolio.cs-portfolio-plain figure figcaption
+{
+    background-color: rgba(0, 83, 148, 0.8) !important;
+}
+/*!
+* Theme Border Color */
+.csborder-color,.csborder-hovercolor:hover,.accomodation-tabs .nav li.active a:after, .flex-direction-nav a:hover, .owl-nav div:hover {
+    border-color:#005394 !important;
+}
+.events-minimal:hover,.widget.event-calendar .eventsCalendar-list-wrap,.cs-tabs.vertical .nav-tabs .active a:before {
+    border-left-color:#005394 !important;
+}
+
+.cs-blog-grid .owl-controls .owl-prev:hover,
+.cs-blog-grid .owl-controls .owl-next:hover{
+    border-top-color:#005394 !important;
+}
+
+
+</style>
+<title>We offer | Brisbane house cleaners</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<!-- All in One SEO Pack Pro 2.5.6.1 by Michael Torbert of Semper Fi Web Design[9689,9736] -->
+<!-- Debug String: TCFNO3FFQA+ZVLZSB8RRV6UBNI0 -->
+<meta name="description" content="regular cleaning">
+
+<meta name="keywords" content="home cleaning,house cleaning,home cleaner,house cleaner">
+
+<link rel="canonical" href="http://www.brisbanehousecleaners.net.au/services/">
+<meta property="og:title" content="We offer | Brisbane house cleaners">
+<meta property="og:type" content="activity">
+<meta property="og:url" content="http://www.brisbanehousecleaners.net.au/services/">
+<meta property="og:image" content="http://www.brisbanehousecleaners.net.au/wp-content/plugins/all-in-one-seo-pack-pro/images/default-user-image.png">
+<meta property="og:site_name" content="Brisbane house cleaners">
+<meta property="og:description" content="regular cleaning">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="We offer | Brisbane house cleaners">
+<meta name="twitter:description" content="regular cleaning">
+<meta name="twitter:image" content="http://www.brisbanehousecleaners.net.au/wp-content/plugins/all-in-one-seo-pack-pro/images/default-user-image.png">
+<meta itemprop="image" content="http://www.brisbanehousecleaners.net.au/wp-content/plugins/all-in-one-seo-pack-pro/images/default-user-image.png">
+			<script type="text/javascript">
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-68934883-1', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async="" src="./Window-Cleaning6_files/analytics.js.download"></script>
+			<!-- /all in one seo pack pro -->
+<link rel="dns-prefetch" href="http://s.w.org/">
+<link rel="alternate" type="application/rss+xml" title="Brisbane house cleaners » Feed" href="http://www.brisbanehousecleaners.net.au/feed/">
+<link rel="alternate" type="application/rss+xml" title="Brisbane house cleaners » Comments Feed" href="http://www.brisbanehousecleaners.net.au/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Brisbane house cleaners » Services Comments Feed" href="http://www.brisbanehousecleaners.net.au/services/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.brisbanehousecleaners.net.au\/wp-includes\/js\/wp-emoji-release.min.js?ver=e455be5b5bfb51c4072bcef2450954fb"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="./Window-Cleaning6_files/wp-emoji-release.min.js.download" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="visual-form-builder-css-css" href="./Window-Cleaning6_files/visual-form-builder.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="vfb-jqueryui-css-css" href="./Window-Cleaning6_files/jquery-ui-1.10.3.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="iconmoon_css-css" href="./Window-Cleaning6_files/iconmoon.css" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap_css-css" href="./Window-Cleaning6_files/bootstrap.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="style_css-css" href="./Window-Cleaning6_files/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="owl_carousel-css" href="./Window-Cleaning6_files/owl.carousel.css" type="text/css" media="all">
+<link rel="stylesheet" id="datepicker_css-css" href="./Window-Cleaning6_files/jquery.datetimepicker.css" type="text/css" media="all">
+<link rel="stylesheet" id="flexslider_css-css" href="./Window-Cleaning6_files/flexslider.css" type="text/css" media="all">
+<link rel="stylesheet" id="responsive_css-css" href="./Window-Cleaning6_files/responsive.css" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-theme_css-css" href="./Window-Cleaning6_files/bootstrap-theme.css" type="text/css" media="all">
+<link rel="stylesheet" id="prettyPhoto_css-css" href="./Window-Cleaning6_files/prettyPhoto.css" type="text/css" media="all">
+<link rel="stylesheet" id="easy_table_style-css" href="./Window-Cleaning6_files/style(1).css" type="text/css" media="all">
+<link rel="stylesheet" id="tablepress-default-css" href="./Window-Cleaning6_files/tablepress-combined.min.css" type="text/css" media="all">
+<script type="text/javascript" src="./Window-Cleaning6_files/prefixfree.min.js.download"></script>
+<script type="text/javascript" src="./Window-Cleaning6_files/jquery.js.download"></script>
+<script type="text/javascript" src="./Window-Cleaning6_files/jquery-migrate.min.js.download"></script>
+<script type="text/javascript" src="./Window-Cleaning6_files/bootstrap.min.js.download"></script>
+<link rel="https://api.w.org/" href="http://www.brisbanehousecleaners.net.au/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.brisbanehousecleaners.net.au/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.brisbanehousecleaners.net.au/wp-includes/wlwmanifest.xml"> 
+
+<link rel="shortlink" href="http://www.brisbanehousecleaners.net.au/?p=455">
+<link rel="alternate" type="application/json+oembed" href="http://www.brisbanehousecleaners.net.au/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.brisbanehousecleaners.net.au%2Fservices%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://www.brisbanehousecleaners.net.au/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.brisbanehousecleaners.net.au%2Fservices%2F&amp;format=xml">
+
+<!-- Call Now Button 0.3.1 by Jerry Rietveld (callnowbutton.com) -->
+<style>#callnowbutton {display:none;} @media screen and (max-width:650px){#callnowbutton {display:block; position:fixed; text-decoration:none; z-index:2147483647;width:65px; height:65px; border-radius:80px; border-top:1px solid #2dc62d; border-bottom: 1px solid #006700; bottom:15px; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);right:20px;background:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgNjAgNjAiPjxwYXRoIGQ9Ik03LjEwNCAxNC4wMzJsMTUuNTg2IDEuOTg0YzAgMC0wLjAxOSAwLjUgMCAwLjk1M2MwLjAyOSAwLjc1Ni0wLjI2IDEuNTM0LTAuODA5IDIuMSBsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDE2LjUgMTcuNCAxOS44IDE5LjhsMTYuODEzIDEuMTQxYzAgMCAwIDAuNCAwIDEuMSBjLTAuMDAyIDAuNDc5LTAuMTc2IDAuOTUzLTAuNTQ5IDEuMzI3bC02LjUwNCA2LjUwNWMwIDAtMTEuMjYxIDAuOTg4LTI1LjkyNS0xMy42NzRDNi4xMTcgMjUuMyA3LjEgMTQgNy4xIDE0IiBmaWxsPSIjMDA2NzAwIi8+PHBhdGggZD0iTTcuMTA0IDEzLjAzMmw2LjUwNC02LjUwNWMwLjg5Ni0wLjg5NSAyLjMzNC0wLjY3OCAzLjEgMC4zNWw1LjU2MyA3LjggYzAuNzM4IDEgMC41IDIuNTMxLTAuMzYgMy40MjZsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDUuMyA2LjkgOS4xIDEwLjY5OWMzLjg0MiAzLjggNy40IDYuNyAxMC43IDkuMSBsNC43NC00Ljc0MmMwLjg5Ny0wLjg5NSAyLjQ3MS0xLjAyNiAzLjQ5OC0wLjI4OWw3LjY0NiA1LjQ1NWMxLjAyNSAwLjcgMS4zIDIuMiAwLjQgMy4xMDVsLTYuNTA0IDYuNSBjMCAwLTExLjI2MiAwLjk4OC0yNS45MjUtMTMuNjc0QzYuMTE3IDI0LjMgNy4xIDEzIDcuMSAxMyIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==) center/50px 50px no-repeat #009900;}}</style>
+<!-- Start CSSHero.org Dynamic CSS & Fonts Loading -->
+	 <style media="all" data-href="http://www.brisbanehousecleaners.net.au/?wpcss_action=show_css">HTML > BODY > DIV.wrapper.wrapper_full_width > FOOTER#footer-sec > DIV.container > DIV.row > ASIDE > DIV > H4 {
+       font-family: Questrial; 
+    } 
+
+HTML > BODY > DIV.wrapper.wrapper_full_width > FOOTER#footer-sec > DIV.container > DIV.row > ASIDE > DIV.textwidget > FONT > A > SPAN > SPAN {
+       color: #ff9310!important; 
+    } 
+
+HTML > BODY > DIV.wrapper.wrapper_full_width > FOOTER#footer-sec > DIV.container > DIV.row > ASIDE > DIV.textwidget > FONT {
+       font-family: Questrial; 
+    } 
+
+HTML > BODY > DIV.wrapper.wrapper_full_width > FOOTER#footer-sec > DIV.container > DIV.row > ASIDE > FONT > DIV.textwidget > FONT {
+       font-family: Questrial; 
+    } 
+
+HTML > BODY > DIV.wrapper.wrapper_full_width > FOOTER#footer-sec > FONT > DIV#copyright > DIV.container > DIV.row > DIV.left-side > DIV.logo > A > IMG {
+       width: 40px!important; 
+    } 
+
+HTML > BODY > DIV.wrapper.wrapper_full_width > FOOTER#footer-sec > FONT > DIV#copyright > DIV.container > DIV.row > DIV.left-side > NAV.footer-nav {
+       font-family: Questrial; 
+       letter-spacing: 0.5px; 
+       line-height: 18px; 
+       margin-top: 9px; 
+       padding-left: 10px; 
+    } 
+
+HTML > BODY > DIV.wrapper.wrapper_full_width > HEADER#main-header > DIV {
+       margin-bottom: 0px; 
+       margin-top: 0px; 
+    } 
+
+HTML > BODY > DIV.wrapper.wrapper_full_width > HEADER#main-header > DIV.breadcrumb-sec.align-center > DIV.container > DIV.cs-frame > DIV.cs-text {
+       margin-top: 0px; 
+    } 
+
+HTML > BODY > DIV.wrapper.wrapper_full_width > HEADER#main-header > DIV.cs-main-nav > DIV.container > DIV.row > DIV > DIV.cs-nav-area > DIV.right-side > DIV.cs-head-info > A.btn-quote {
+       font-family: Permanent Marker!important; 
+       margin-left: 20px; 
+    } 
+
+HTML > BODY > DIV.wrapper.wrapper_full_width > HEADER#main-header > DIV.cs-main-nav > DIV.container > DIV.row > DIV > DIV.cs-nav-area > DIV.right-side > DIV.cs-head-info > SPAN.contact {
+       color: rgba(73,73,73,1); 
+       font-family: Questrial; 
+    } 
+
+HTML > BODY > DIV.wrapper.wrapper_full_width > HEADER#main-header > DIV.cs-main-nav > DIV.container > DIV.row > DIV > DIV.cs-nav-area > DIV.right-side > DIV.cs-head-info > UL > LI {
+       font-family: Questrial; 
+       font-size: 16px; 
+    } 
+
+HTML > BODY > DIV.wrapper.wrapper_full_width > HEADER#main-header > DIV.cs-main-nav > DIV.container > DIV.row > DIV > DIV.cs-nav-area > DIV.right-side > NAV.navigation > UL > LI > A {
+       font-family: Questrial!important; 
+       font-weight: normal; 
+       letter-spacing: 0.5!important; 
+    } 
+
+HTML > BODY > DIV.wrapper.wrapper_full_width > HEADER#main-header > DIV.cs-main-nav > DIV.container > DIV.row > DIV > DIV.cs-nav-area {
+       padding-top: 25px; 
+    } 
+
+HTML > BODY > DIV.wrapper.wrapper_full_width > HEADER#main-header > DIV.cs-main-nav {
+       margin-top: 0px; 
+    } 
+
+HTML > BODY > DIV.wrapper.wrapper_full_width > HEADER#main-header > DIV.cs-top-bar > DIV.container > DIV.left-side > SPAN.cs-timing-text {
+       font-family: Questrial; 
+    } 
+
+HTML > BODY > DIV.wrapper.wrapper_full_width > MAIN#main-content > DIV.main-section > DIV.container > DIV.row > ASIDE.page-sidebar > DIV > DIV > H4 {
+       font-family: Questrial; 
+    } 
+
+HTML > BODY > DIV.wrapper.wrapper_full_width > MAIN#main-content > DIV.main-section > DIV.container > DIV.row > ASIDE.page-sidebar > DIV > DIV.textwidget > DIV > ARTICLE.cs-counter.count-boxy.left > DIV.cs-text > A.cs-numcount.custom-counter-24601 {
+       color: #1f3166; 
+       font-family: Permanent Marker!important; 
+    } 
+
+HTML > BODY > DIV.wrapper.wrapper_full_width > MAIN#main-content > DIV.main-section > DIV.container > DIV.row > DIV.page-content > DIV.page-section > DIV.container > DIV.row > DIV.section-fullwidth > DIV.element-size-100 > DIV.cs-holder > DIV.cs-section-title > DIV.section-inner > H2 {
+       font-family: Questrial; 
+       letter-spacing: 0px!important; 
+    } 
+
+HTML > BODY > DIV.wrapper.wrapper_full_width > MAIN#main-content > DIV.main-section > DIV.container > DIV.row > DIV.page-content > DIV.page-section > DIV.container > DIV.row > DIV.section-fullwidth > DIV.element-size-100 > DIV.cs-holder {
+       margin-bottom: 20px; 
+       padding-right: 30px; 
+    } 
+
+HTML > BODY > DIV.wrapper.wrapper_full_width > MAIN#main-content > DIV.main-section > DIV.page-section > DIV.container > DIV.row > DIV.section-fullwidth {
+       border-style: none; 
+    } 
+
+HTML > BODY > DIV.wrapper.wrapper_full_width > MAIN#main-content > DIV.main-section > DIV.page-section > DIV.container > DIV.row > DIV.section-fullwidth > DIV.element-size-100 > DIV {
+       margin-bottom: -1px; 
+    } 
+
+HTML > BODY > DIV.wrapper.wrapper_full_width > MAIN#main-content > DIV.main-section > DIV.page-section > DIV.container > DIV.row > DIV.section-fullwidth > DIV.element-size-100 > DIV.cs-holder.has-bg-color > H1 {
+       color: #ff9310!important; 
+       font-family: Questrial; 
+       margin-top: 20px; 
+    } 
+
+HTML > BODY > DIV.wrapper.wrapper_full_width > MAIN#main-content > DIV.main-section > DIV.page-section > DIV.container > DIV.row > DIV.section-fullwidth > DIV.element-size-100 > DIV.cs-holder.has-bg-color > P {
+       font-family: Questrial!important; 
+       letter-spacing: 0px!important; 
+       margin-bottom: 0px; 
+       text-align: center!important; 
+    } 
+
+HTML > BODY > DIV.wrapper.wrapper_full_width > MAIN#main-content > DIV.main-section > DIV.page-section > DIV.container > DIV.row > DIV.section-fullwidth > DIV.element-size-25 > DIV.button_stylemedium > A.cs-default-btn.circle.left.medium.bg-color.has_icon {
+       border-radius: 30px; 
+       font-family: Questrial; 
+       margin-top: 5px; 
+       padding-bottom: 15px; 
+       padding-top: 15px; 
+    } 
+
+HTML > BODY > DIV.wrapper.wrapper_full_width > MAIN#main-content > DIV.main-section > DIV.page-section > DIV.container > DIV.row > DIV.section-fullwidth > DIV.element-size-50 > DIV > ARTICLE.cs-services.cs-classic.left > DIV.cs-text > H3 {
+       font-family: Questrial!important; 
+       font-weight: 600; 
+       letter-spacing: 0px!important; 
+       margin-bottom: 12px; 
+    } 
+
+HTML > BODY > DIV.wrapper.wrapper_full_width > MAIN#main-content > DIV.main-section > DIV.page-section > DIV.container > DIV.row > DIV.section-fullwidth > DIV.element-size-50 > DIV > ARTICLE.cs-services.cs-classic.left > DIV.cs-text > P {
+       font-family: Questrial!important; 
+       margin-bottom: 0px; 
+    } 
+
+HTML > BODY > DIV.wrapper.wrapper_full_width > MAIN#main-content > DIV.main-section > DIV.page-section > DIV.container > DIV.row > DIV.section-fullwidth > DIV.element-size-50 > DIV.cs-holder > DIV > DIV.cs-section-title > H2 {
+       font-family: Questrial; 
+       letter-spacing: 0px!important; 
+    } 
+
+HTML > BODY > DIV.wrapper.wrapper_full_width > MAIN#main-content > DIV.main-section > DIV.page-section > DIV.container > DIV.row > DIV.section-fullwidth > DIV.element-size-50 > DIV.cs-holder > DIV > UL.spec-list.cs-iconlist > LI.has_border {
+       padding-bottom: 5px; 
+       padding-top: 5px; 
+    } 
+
+HTML > BODY > DIV.wrapper.wrapper_full_width > MAIN#main-content > DIV.main-section > DIV.page-section > DIV.container > DIV.row > DIV.section-fullwidth > DIV.element-size-50 > DIV.cs-holder > DIV.button_stylemedium > A.cs-default-btn.circle.left.medium.bg-color {
+       border-radius: 30px; 
+       border-style: solid!important; 
+       border-width: 0px; 
+       padding-bottom: 15px; 
+       padding-top: 15px; 
+    } 
+
+HTML > BODY > DIV.wrapper.wrapper_full_width > MAIN#main-content > DIV.main-section > DIV.page-section > DIV.container > DIV.row > DIV.section-fullwidth > DIV.element-size-50 > DIV.cs-holder {
+       font-family: Questrial; 
+    } 
+
+HTML > BODY > DIV.wrapper.wrapper_full_width > MAIN#main-content > DIV.main-section > DIV.page-section > DIV.container > DIV.row > DIV.section-fullwidth > DIV.element-size-75 > DIV.cs-holder > DIV.cs-fancy-heading > H1 {
+       font-family: Permanent Marker!important; 
+       font-size: 24px!important; 
+       letter-spacing: -1px!important; 
+       line-height: 30px!important; 
+    } 
+
+HTML > BODY > DIV.wrapper.wrapper_full_width > MAIN#main-content > DIV.main-section > DIV.page-section {
+       padding-top: 40px!important; 
+    } 
+
+HTML > BODY > DIV.wrapper.wrapper_full_width > MAIN#main-content > DIV.main-section {
+       font-family: Questrial; 
+    } 
+
+
+@media screen and (max-width: 480px)  { HTML > BODY > DIV.wrapper.wrapper_full_width > FOOTER#footer-sec > DIV.container > DIV.row > ASIDE > DIV.textwidget > FONT > A > SPAN > SPAN {   color: #ff9310!important; }  }  
+@media screen and (max-width: 480px)  { HTML > BODY > DIV.wrapper.wrapper_full_width > MAIN#main-content > DIV.main-section > DIV.page-section > DIV.container > DIV.row > DIV.section-fullwidth > DIV.element-size-100 > DIV {   margin-bottom: 5px; }  }  
+@media screen and (max-width: 480px)  { HTML > BODY > DIV.wrapper.wrapper_full_width > MAIN#main-content > DIV.main-section > DIV.page-section > DIV.container > DIV.row > DIV.section-fullwidth > DIV.element-size-100 > DIV {   margin-top: 30px; }  }  
+@media screen and (max-width: 480px)  { HTML > BODY > DIV.wrapper.wrapper_full_width > MAIN#main-content > DIV.main-section > DIV.page-section > DIV.container > DIV.row > DIV.section-fullwidth > DIV.element-size-100 > DIV.cs-holder.has-bg-color > P {   line-height: 22px!important; }  }  
+@media screen and (max-width: 480px)  { HTML > BODY > DIV.wrapper.wrapper_full_width > MAIN#main-content > DIV.main-section > DIV.page-section > DIV.container > DIV.row > DIV.section-fullwidth > DIV.element-size-75 > DIV.cs-holder > DIV.cs-fancy-heading > H1 {   font-family: Permanent Marker!important; }  }  
+@media screen and (max-width: 480px)  { HTML > BODY > DIV.wrapper.wrapper_full_width > MAIN#main-content > DIV.main-section > DIV.page-section > DIV.container > DIV.row > DIV.section-fullwidth > DIV.element-size-75 > DIV.cs-holder > DIV.cs-fancy-heading > H1 {   margin-bottom: 0px; }  }  
+@media screen and (max-width: 480px)  { HTML > BODY > DIV.wrapper.wrapper_full_width > MAIN#main-content > DIV.main-section > DIV.page-section {   margin-bottom: -20px!important; }  }  </style>
+	 <link href="./Window-Cleaning6_files/css" rel="stylesheet" type="text/css"> 	 <!-- End CSSHero.org Dynamic CSS & Fonts Loading -->    
+	    <style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style></head>
+    <body class="page-template-default page page-id-455  cbp-spmenu-push elementor-default">
+	         <!-- Wrapper -->
+    <div class="wrapper wrapper_full_width">
+    	        <!-- Header 1 Start -->
+        <header id="main-header">
+                    <div class="cs-top-bar">
+                <div class="container">
+                                            <div class="left-side">
+                            <span class="cs-timing-text">Mon - Sat 7:00 - 20:00, Sunday CLOSED</span> 
+                        </div>
+                    
+                    <div class="right-side">
+                                                <div class="social-media">
+                            <ul>
+                                                                              
+                    <li>
+                        <a style="color:;" title="" href="https://plus.google.com/" data-original-title="Google+" data-placement="top" class="colrhover" target="_blank">
+                                                    <i class="fa icon-google-plus "></i>
+                                                                    </a>
+                    </li>
+                                                </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                        <!-- Main Header -->
+            <div class="cs-main-nav">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="cs-nav-area">
+                                <div class="left-side">
+                                            <div class="logo">
+            <a href="http://www.brisbanehousecleaners.net.au/">    
+                <img src="./Window-Cleaning6_files/brisbane-house-cleaners-logo.png" style="width:146px; height: px;" alt="Brisbane house cleaners">
+            </a>
+        </div>
+                <div class="logo has_sticky">
+            <a href="http://www.brisbanehousecleaners.net.au/">    
+                <img src="./Window-Cleaning6_files/brisbane-house-cleaners-logo.png" alt="Brisbane house cleaners">
+            </a>
+        </div>
+         
+                                </div>
+                                <div class="right-side">
+                                    <div class="cs-head-info">
+                                                                                    <span class="contact">Contact Us! <span>We respond to you in 24hours</span></span>
+                                                                                    <ul>
+                                            <li><i class="icon-phone8"></i>(07) 3423 - 0582</li>                                         <li><i class="icon-mail6"></i>
+                                         <a href="mailto:brisbanehousecleaners@gmail.com">brisbanehousecleaners@gmail.com</a></li>                                         </ul>
+                                                                                    <a href="http://www.brisbanehousecleaners.net.au/free-quotation/" class="btn-quote">Free Quote </a> 
+										                                    </div>
+                                    <nav class="navigation">
+                                        <a class="cs-click-menu"><i class="icon-list8"></i></a>
+										<ul><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-371"><a href="http://www.brisbanehousecleaners.net.au/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-455 current_page_item menu-item-464"><a href="http://www.brisbanehousecleaners.net.au/services/">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-522"><a href="http://www.brisbanehousecleaners.net.au/what-they-say/">What they say</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-466"><a href="http://www.brisbanehousecleaners.net.au/free-quotation/">Prices and free quotation</a></li>
+</ul>                                    </nav>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                    <div class="breadcrumb-sec align-center " style="background: url(http://www.brisbanehousecleaners.net.au/wp-content/uploads/2015/07/bathroom.jpg) center top  ; min-height:393px!important;    "> 
+            <!-- Container --> 
+                                    <div class="container">
+                <div class="cs-frame">
+                    <div class="cs-text">
+                        <!-- PageInfo -->
+                        <h1 style="color:#ffffff !important">Services</h1><div class="cs-spreater" style="width:420px;"><div class="cs-divider-style"></div></div>                    </div>
+                </div>
+                    </div>
+         
+        </div>
+        <div class="clear"></div>
+        
+        </header>
+                    
+        <!-- Main Content Section -->
+        <main id="main-content">
+            <!-- Main Section -->
+            <div class="main-section"><div class="container"><div class="row"><div class="page-content">                <!-- Page Section -->
+                <div class="page-section " style="margin-top: 0px;margin-bottom: 0px;border-top: 0px #e0e0e0 solid;border-bottom: 0px #e0e0e0 solid;">
+                                    <!-- Container Start -->
+                     <div class="container">
+                        <div class="row">
+                                <div class="section-fullwidth"><div class="element-size-100"><div style="background-image:url(); color:; background-color:;" class="cs-holder  col-md-12">
+			<div class="cs-section-title"><div class="section-inner"><h2>Regular cleaning</h2></div></div> <img src="./Window-Cleaning6_files/duster.jpg" alt="duster" width="100" height="100" class="alignleft size-full wp-image-552">This service is for those who wish to maintain their property clean at a regular basis. It can be done on a <strong>weekly, fortnightly, or monthly</strong> basis depending on your circumstances. This service will cover all internal areas and involve dusting, wiping, vacuuming, mopping- depending on the different surfaces of bathrooms, kitchens and living room.  
+			</div></div><div class="element-size-100"><div style="background-image:url(); color:; background-color:;" class="cs-holder  col-md-12">
+			<div class="cs-section-title"><div class="section-inner"><h2>Once off cleaning</h2></div></div> <img src="./Window-Cleaning6_files/bucket.jpg" alt="bucket" width="100" height="101" class="alignleft size-full wp-image-556">This is <strong> on call services </strong>which enable you to have your property cleaned when you occasionally need to.<br>
+• Need a spring cleaning?<br>
+• A big event coming up? (e.g. Christmas or a special dinner at home).<br>
+• Feel sick or tired of doing house work?<br>
+• Just finished renovations?<br>
+• Or want to surprise your friend or family members by giving this service as a present?<br>
+Then give us a call.<br>
+In general, it will include all areas as the regular cleaning standard unless you specify.                     
+			</div></div><div class="element-size-100"><div style="background-image:url(); color:; background-color:;" class="cs-holder  col-md-12">
+			<div class="cs-section-title"><div class="section-inner"><h2>End of lease cleaning</h2></div></div> <img src="./Window-Cleaning6_files/bin.jpg" alt="bin" width="100" height="101" class="alignleft size-full wp-image-555">The last thing you might want to do when you move out is <strong>… the cleaning….</strong><br>
+We will be your relief from this hassle. This service will cover the whole cleaning for the final inspection before the termination of your rent. Any issues in cleaning will be solved by us and get confirmed without needing your presence. You only need to focus on settling into your new place.<br>
+  
+			</div></div><div class="element-size-100"><div style="background-image:url(); color:; background-color:;" class="cs-holder  col-md-12">
+			<div class="cs-section-title"><div class="section-inner"><h2>Carpet cleaning</h2></div></div> <img src="./Window-Cleaning6_files/vacuum.jpg" alt="vacuum" width="100" height="100" class="alignleft size-full wp-image-554">Carpet cleaning is one of our specialised services. We have completed training and have been certified by the Australian Carpet Cleaning Institute (ACCI).<br>
+Also, steam and dry carpet cleaning will be available upon your request. Regular carpet cleaning is highly recommended for hygienic purposes. Heavy furniture does not necessarily moved as the cleaning can be done as they are.<br>
+      
+			</div></div><div class="element-size-100"><div style="background-image:url(); color:; background-color:;" class="cs-holder  col-md-12">
+			<div class="cs-section-title"><div class="section-inner"><h2>Window cleaning</h2></div></div> <img src="./Window-Cleaning6_files/spray.jpg" alt="spray" width="99" height="100" class="alignleft size-full wp-image-553">This cleaning will include window seals, frames as well as fly-screens. We use an accurate amount of water so that there will be no hoses left on the floor. Further, our attention to detail will leave no marks on the floor or wall. For safety reasons we have the limit of height up to 3 metres.   
+			</div></div><div class="element-size-100"><div style="background-image:url(); color:; background-color:;" class="cs-holder  col-md-12">
+			<div class="cs-section-title"><div class="section-inner"><h2>Extra Services</h2></div></div> <img src="./Window-Cleaning6_files/mop.jpg" alt="mop" width="100" height="100" class="alignleft size-full wp-image-551">• Oven / Microwave Cleaning<br>
+<p style="padding-left: 30px;">• High Pressure Cleaning<br>
+• Tile &amp; Grouting Cleaning<br>
+• Pre-sale and Post-sale Cleaning<br>
+• Initial Cleaning</p><br>
+• Small Office Cleaning         <br>
+<script><br />
+  (function(i,s,o,g,r,a,m){i[&#039;GoogleAnalyticsObject&#039;]=r;i[r]=i[r]||function(){<br />
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),<br />
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)<br />
+  })(window,document,&#039;script&#039;,&#039;//www.google-analytics.com/analytics.js&#039;,&#039;ga&#039;);<br />
+<br />
+  ga(&#039;create&#039;, &#039;UA-68934883-1&#039;, &#039;auto&#039;);<br />
+  ga(&#039;send&#039;, &#039;pageview&#039;);<br />
+<br />
+</script> 
+			</div></div></div>                          </div>
+                    </div>
+                </div>
+                </div>                <aside class="page-sidebar">
+                    <div class="widget element-size-100 widget_text"><div class="widget-section-title"><h4>During 11 years</h4></div>			<div class="textwidget"><div class="col-md-12 ">
+				<article style="border:7px solid #ffffff " class="cs-counter count-boxy left ">
+                <script>
+                    jQuery(document).ready(function($){
+                        jQuery(".custom-counter-35698").counterUp({
+                            delay: 10,
+                            time: 1000
+                        });
+                    });    
+                </script><figure><i class="icon-home icon-5x" style=" color: #21cdec; "></i></figure><div class="cs-text"><a class="cs-numcount custom-counter-35698" style=" color: #545454;">6,500</a><p style="color:#818181;">Homes cleaned</p></div></article>
+			</div>
+</div>
+		</div><div class="widget element-size-100 widget_text"><div class="widget-section-title"><h4>In the end…</h4></div>			<div class="textwidget">It is all about the satisfaction of the service you have paid for.
+We are proud of the quality of our services and this is why we are running.<br> We believe that we have been rewarded by our current and previous clients.<br>All staff members have been trained by myself so that the service is maintained with manners and high quality.
+<br><a href="http://www.brisbanehousecleaners.net.au/what-they-say/"><span style="text-decoration: underline; color: #0000ff;">Click here</span></a> to see what our clients say about us and our services.</div>
+		</div><div class="widget element-size-100 widget_text"><div class="widget-section-title"><h4>FAQ</h4></div>			<div class="textwidget"><div class="col-md-12"><div class="panel-group cs-plain modern  " id="accordion-2027286"><div class="panel panel-default">
+					<div class="panel-heading">	<h4 class="panel-title">			
+					<a class="" href="http://www.brisbanehousecleaners.net.au/services/#accordion-3663428" data-parent="#accordion-2027286" data-toggle="collapse"><i class="icon-home"></i><span>How do you charge for the services?</span></a>	
+					</h4>			
+					</div>
+				  <div id="accordion-3663428" class="panel-collapse collapsein ">
+					<div class="panel-body"> A. Most of our rates are based on a "per job" instead of "per hour" system unless you specify. Which means that you will be notified the exact amount for the service we have agreed on during the quotation. You don't need to pay any extra even if the job requires a longer time than we expected.</div>
+				</div>
+                  </div><div class="panel panel-default">
+					<div class="panel-heading">	<h4 class="panel-title">			
+					<a class="collapsed" href="http://www.brisbanehousecleaners.net.au/services/#accordion-9950275" data-parent="#accordion-2027286" data-toggle="collapse"><i class="icon-home"></i><span>What if something gets damaged?</span></a>	
+					</h4>			
+					</div>
+				  <div id="accordion-9950275" class="panel-collapse collapse ">
+					<div class="panel-body"> A. Even we are all trained on proper procedures in any situation. If anything is damaged as the result of what we had done during the cleaning, it will be replaced or fixed ASAP. If necessary, we will lodge the claim to our insurance company to help resolve the situation, as we are fully covered by the insurance of public liability with AMP. </div>
+				</div>
+                  </div><div class="panel panel-default">
+					<div class="panel-heading">	<h4 class="panel-title">			
+					<a class="collapsed" href="http://www.brisbanehousecleaners.net.au/services/#accordion-5406677" data-parent="#accordion-2027286" data-toggle="collapse"><i class="icon-home"></i><span>Do I have to be home during the cleaning ?</span></a>	
+					</h4>			
+					</div>
+				  <div id="accordion-5406677" class="panel-collapse collapse ">
+					<div class="panel-body"> A. Not necessarily. It is completely at your convenience. Many of our clients leave a key with us, or let us know how to access the premises while you are away.</div>
+				</div>
+                  </div><div class="panel panel-default">
+					<div class="panel-heading">	<h4 class="panel-title">			
+					<a class="collapsed" href="http://www.brisbanehousecleaners.net.au/services/#accordion-4487165" data-parent="#accordion-2027286" data-toggle="collapse"><i class="icon-home"></i><span>Can I reschedule my regular cleaning without any penalties?</span></a>	
+					</h4>			
+					</div>
+				  <div id="accordion-4487165" class="panel-collapse collapse ">
+					<div class="panel-body"> A. Of course you can. We understand that sometimes unforeseeable things do happen in your lives. As long as you give us a notice in advance (the earlier the better), we will not charge for the services we haven't done. <br>However, as this is based on the commitment and trust between us, it would be much appreciated if you can manage to reschedule the service as soon as possible to maintain the cleanliness of your place and for our scheduling to be manageable.  </div>
+				</div>
+                  </div><div class="panel panel-default">
+					<div class="panel-heading">	<h4 class="panel-title">			
+					<a class="collapsed" href="http://www.brisbanehousecleaners.net.au/services/#accordion-5845197" data-parent="#accordion-2027286" data-toggle="collapse"><i class="icon-home"></i><span>What do I need to prepare before the cleaning?</span></a>	
+					</h4>			
+					</div>
+				  <div id="accordion-5845197" class="panel-collapse collapse ">
+					<div class="panel-body"> A. Nothing. We provide you the service with all our equipment and cleaning products. However, if you prefer using you own material and resources we are happy to use your ones. Just let us know.</div>
+				</div>
+                  </div></div></div></div>
+		</div>                </aside>
+            </div></div>	</div>
+</main>
+<div class="clear"></div>
+<!-- Footer -->
+    <footer id="footer-sec">
+                <div class="container">
+            <div class="row">
+                <aside class="widget col-md-4 widget_text"><div class="widget-section-title"><h4>Getting in touch </h4></div>			<div class="textwidget"><font color="white">
+● Web inquiry- <a href="http://brisbanehousecleaners.net.au/free-quotation/"><span style="text-decoration: underline;"><span style="color: #ffcc00; text-decoration: underline;">click here</span></span></a><br>
+
+●  SMS : leave a message with us<br>
+
+●  E-mail : brisbanehousecleaners@gmail.com<br>
+
+●  Phone : 0430 438 260(James)<br>
+<span style="10pt;">0402 779 024(Julie)</span><br>
+
+<span style="font-size: 10pt;">(Answering your call may not always be possible while we are on the job or driving. However, we will get back to you ASAP after you leave a message with us.)</span></font></div><font color="white">
+		</font></aside><aside class="widget col-md-4 widget_text"><div class="widget-section-title"><h4><font color="white">Step by step guide</font></h4></div><font color="white">			<div class="textwidget"><font color="white">
+Step 1 :	Contact us - website inquiry, email, SMS or call us.<br>
+Step 2 :     We will answer your inquiries (within 24 hours).<br>
+Step 3 :	Arrange schedule.<br>
+Step 4 :	Start enjoying our services.</font>
+</div>
+		</font></aside><aside class="widget col-md-4 widget_text"><div class="widget-section-title"><h4><font color="white">Easy payment option</font></h4></div><font color="white">			<div class="textwidget"><font color="white">
+✓  Direct Debit<br>
+✓  Bank check<br>
+✓  Cash on hands
+</font></div>
+		</font></aside><font color="white">            </font></div><font color="white">
+        </font></div><font color="white">                    
+            
+
+	 <div id="copyright">
+		<div class="container">
+			<div class="row">
+				<div class="left-side col-md-6">
+					<div class="logo"><a href="http://www.brisbanehousecleaners.net.au/"><img src="./Window-Cleaning6_files/brisbane-house-cleaners-logo.png" alt="Brisbane house cleaners"></a></div>
+					
+					<nav class="footer-nav">
+														 													
+							© 2015 All rights reserved. Design by <a class="cscolor" href="mailto:ozhappysky@gmail.com">Chris</a>					</nav>
+				</div>
+				<div class="right-side col-md-6">
+					<div class="social-media">
+                                <ul>
+                                                                                  
+                    <li>
+                        <a style="color:;" title="" href="https://plus.google.com/" data-original-title="Google+" data-placement="top" data-placement-tooltip="tooltip" class="colrhover" target="_blank">
+                                                    <i class="fa icon-google-plus "></i>
+                        Google+                                            </a>
+                    </li>
+                                                       
+                               </ul>
+                           </div>
+					<a href="http://www.brisbanehousecleaners.net.au/services/#" class="btn-top"><i class="icon-arrow-up9"></i></a>
+				</div>
+			</div>
+		</div>
+	</div>
+   
+    </font></footer><font color="white"> 
+    
+</font></div><font color="white">
+<!-- Wrapper End -->   
+<a href="tel:0430438260" id="callnowbutton">&nbsp;</a><script type="text/javascript" src="./Window-Cleaning6_files/jquery.prettyPhoto.js.download"></script>
+<script type="text/javascript" src="./Window-Cleaning6_files/modernizr.js.download"></script>
+<script type="text/javascript" src="./Window-Cleaning6_files/functions.js.download"></script>
+<script type="text/javascript" src="./Window-Cleaning6_files/wp-embed.min.js.download"></script>
+<script type="text/javascript" src="./Window-Cleaning6_files/waypoints_min.js.download"></script>
+
+</font></body></html>
